@@ -18,4 +18,5 @@ Contents
 
    user_mgmt
    visitor_mgmt
+   academic_mgmt
    
