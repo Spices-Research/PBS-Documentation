@@ -1,5 +1,5 @@
 *******************
-User Management
+Manage Users
 *******************
 
 User management is a section under the System Structure module. To access the user management section, click on System Structure in the dashboard.
@@ -21,7 +21,7 @@ After clicking on the **User Management** link, the user will be directed to the
 Here, the list of all the current users is displayed. To create a new user, click on the **‘New User’** button.
 
 
-1.1 Create New User.
+Create New User
 --------------------
 
 To create a new user, click on the **‘New User’** button.
@@ -42,7 +42,7 @@ After clicking on **‘Submit’** new user will be created and will be displaye
 .. image:: ./../images/usermgmt/image4.png
 
 
-1.2 Edit User.
+Edit User
 --------------------
 
 To edit the user details click on the edit button.
@@ -54,7 +54,7 @@ The user will be redirected to a form containing the user details. To update the
 .. image:: ./../images/usermgmt/image7.png
 
 
-1.3 Delete User
+Delete User
 --------------------
 To delete a user, click on the delete button.
 

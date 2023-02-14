@@ -22,7 +22,11 @@ Contents
 .. toctree::
    :caption: VISITOR MANAGEMENT
    
-   visitor_mgmt
+   visitors/intro
+   visitors/visitor
+   visitors/steps
+   visitors/reports
+   visitors/settings
 
 .. toctree::
    :caption: ACADEMIC MANAGEMENT
