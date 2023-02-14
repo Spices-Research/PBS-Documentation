@@ -173,7 +173,7 @@ The name of the student will appear in Visitor ID only if the query phase is fin
 
 .. image:: ./../images/visitormgmt/image65.png
 
-    After editing the desired details, the user will have to click on the **‘UPDATE’** button to finish up the editing process.
+After editing the desired details, the user will have to click on the **‘UPDATE’** button to finish up the editing process.
 
 * After the counseling is done, the students must pay the fee of the form for the entrance exam. Once the payment is done by the student, the user will have to indicate that the form fee is paid.
 

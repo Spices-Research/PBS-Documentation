@@ -15,8 +15,17 @@ Contents
 --------
 
 .. toctree::
+   :caption: USER MANAGEMENT
 
    user_mgmt
+
+.. toctree::
+   :caption: VISITOR MANAGEMENT
+   
    visitor_mgmt
+
+.. toctree::
+   :caption: ACADEMIC MANAGEMENT
+
    academic_mgmt
    
