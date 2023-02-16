@@ -17,7 +17,7 @@ Contents
 .. toctree::
    :caption: USER MANAGEMENT
 
-   user_mgmt
+   users/user_mgmt
 
 .. toctree::
    :caption: VISITOR MANAGEMENT
@@ -31,5 +31,29 @@ Contents
 .. toctree::
    :caption: ACADEMIC MANAGEMENT
 
-   academic_mgmt
+   academics/academic_mgmt
+   academics/academics_level
+   academics/program_mgmt
+   academics/courses
+   academics/cohort
+   academics/students
+   academics/activities
+   academics/transcripts
+   academics/charactercertificate
+   academics/calendar
+   academics/iaustudents
+
+.. toctree::
+   :caption: LIBRARY MANAGEMENT
+
+   library/library
+   library/issue_and_return
+   library/queues
+   library/transaction
+   library/books_mgmt
+   library/members
+   library/settings
+   library/reports
+
+
    
