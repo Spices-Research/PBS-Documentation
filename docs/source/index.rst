@@ -51,5 +51,9 @@ Contents
    library/queues
    library/transaction
    library/books_mgmt
+   library/members
+   library/settings
+   library/reports
+
 
    
